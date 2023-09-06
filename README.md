@@ -1,35 +1,3 @@
-# Table of Contents:
-
-## 1. Introduction.................................................................. 3
-
-## a. Background
-
-## b. Motivations
-
-## c. Goals
-
-## 2. Methodology................................................................. 4
-
-## 3. Description of Dataset.................................................... 8
-
-## 4. Results & Analysis ......................................................... 9
-
-## Discovery Cluster & GPU
-
-## ● Experiment 1
-
-## ● Experiment 2
-
-## ● Experiment 3
-
-## ● Experiment 4
-
-## ● Training Function, Data Loader & Transforms
-
-## 5. Conclusion................................................................... 31
-
-## 6. References................................................................... 32
-
 
 **1. Introduction:**
 
